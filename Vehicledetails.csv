@@ -1,0 +1,5 @@
+video,Incident window start frame,Incident Detection,Crash Severity,Ego-car involved,Label,Number of Bicyclists/Scooters,Number of animals involved,Number of pedestrians involved,Number of vehicles involved (excluding ego-car),Caption Before Incident,Reason of Incident
+522,247,Collision,4. Other cars collided with person/car/object but ego-car is ok,1,vehicle drives into another vehicle,0,0,6,11,Ego-car is driving in heavy traffic.,A collision involving another vehicle was detected.
+523,55,Near Collision,"3. Possible crash, low severity",0,near miss with another vehicle,0,0,0,3,Ego-car is driving with light traffic.,Other vehicles collided near ego-car.
+524,124,Near Collision,"3. Possible crash, low severity",0,near miss with another vehicle,0,0,0,7,Ego-car is driving with moderate traffic.,Other vehicles collided near ego-car.
+525,25,Near Collision,"3. Possible crash, low severity",0,near miss with another vehicle,0,0,5,6,Ego-car is driving with moderate traffic.,Other vehicles collided near ego-car.
